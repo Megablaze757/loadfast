@@ -1,0 +1,39 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Fast;Load;; ;
+FN: Load Fast
+ORG:
+COMPANY:
+TITLE:Waste disposal
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Waterworks road;Hastings;;;United Kingdom
+TEL;TYPE=Work,pref:+447890 326223
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:info@loadfastwastedisposal.co.uk
+URL;TYPE=Digital Business Card:
+
+
+
+URL;TYPE=Location:
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100600886
+URL;TYPE=Website:https://www.loadfastwastedisposal.co.uk/
+
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+URL;TYPE=WeChat:
+
+URL;TYPE=Facebook:https://www.facebook.com/loadfastwastedisposalltd
+URL;TYPE=Instagram:https://www.instagram.com/loadfastwastedisposal/
+
+PHOTO;ENCODING=b:
+NOTE;CHARSET=UTF-8:Take out the hassle of renting a skip & let us do all the work! Call one of the friendly team now for a no obligation quote and allow us to efficiently clear and dispose of your waste.​​
+
+END:VCARD
